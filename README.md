@@ -7,6 +7,11 @@ A dynamic web application that provides real-time weather information for any ci
   <li>Global Coverage: Access weather information for any city across the globe.</li>
   <li>User-Friendly Interface: Simple and intuitive interface for easy navigation and information retrieval.</li>
 </ul>
+
+**Screenshot**
+![image](https://github.com/user-attachments/assets/8d08a032-3c85-4b7c-a3cd-4a46337ceba5)
+
+
 <br>
 <h3>Technologies Used</h3>
 <ul>
